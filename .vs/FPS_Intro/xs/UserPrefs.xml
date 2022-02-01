@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{EC227990-4269-D6A4-DB31-9E4EE27E0B0C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UpdateInfoManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="15" Column="55" />
+      <File FileName="Assets/Scripts/LookAtPlayer.cs" Line="17" Column="14" />
+      <File FileName="Assets/Scripts/UpdateInfoManager.cs" Line="29" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FPS_Intro" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="UpdateInfoManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1141cd38-9a55-4b57-8342-3937d9d9bbe2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
